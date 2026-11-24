@@ -1,10 +1,14 @@
  <div align="center">
 
-# Hi 👋, I'm Ranjith N
+<img src="./banner.png" width="100%" alt="Ranjith N Developer Banner" />
+
+<br/>
+
+# 👋 Hi, I'm Ranjith N
 
 ### 🎓 4th Year Engineering Student | Aspiring Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=HTML+%7C+CSS+%7C+Python+%7C+SQL;Passionate+About+Technology;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+Python+%7C+SQL;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 </div>
 
@@ -12,29 +16,34 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a 4th-year engineering student.
+Hello! I'm Ranjith N, a fourth-year engineering student passionate about technology, programming, and software development.
+
+- 🎓 Currently pursuing my 4th year of engineering.
 - 💻 Interested in Web Development and Software Development.
-- 🌱 Currently improving my programming and technical skills.
-- 🐍 Working with Python and SQL.
-- 🎨 Enjoy creating clean and responsive web interfaces.
-- 🚀 Passionate about learning new technologies and building projects.
+- 🌱 Continuously learning new technologies.
+- 🐍 Exploring Python programming.
+- 🗄️ Learning database management using SQL.
+- 🎨 Interested in creating clean and responsive web interfaces.
+- 🚀 Focused on improving my technical and problem-solving skills.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
+### Languages & Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,python,mysql&theme=dark" />
 
 </div>
 
-| Technology | Skills |
-|---|---|
+| Technology | Area of Interest |
+|:---|:---|
 | HTML5 | Web Structure |
 | CSS3 | Styling & Responsive Design |
 | Python | Programming & Logic Building |
-| SQL | Database Management & Queries |
+| SQL | Database Management |
 
 ---
 
@@ -42,11 +51,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<br/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -70,8 +81,8 @@
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+### 💡 "Dream. Code. Create. Repeat."
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my GitHub profile!** ⭐
 
 </div>
